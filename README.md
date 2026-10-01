@@ -22,3 +22,16 @@ Git printed the commit confirmation message and tracked a total of 12 files.
 What are the first seven characters of your commit called, and what are they for?
 They are called the short commit hash (or commit ID), and they serve as a unique identifier to reference that specific commit in Git.
 
+# Coding Café
+
+Lab work for Coding Café, FM102.
+
+**Name:** Richa
+**Roll number:** U20260294
+
+## Contents
+
+- `lab1/` — terminal
+- `lab2/` — variables, types, operations, I/O
+- `lab3/` — conditionals and loops
+- `lab4/` — git and github
