@@ -35,3 +35,6 @@ Lab work for Coding Café, FM102.
 - `lab2/` — variables, types, operations, I/O
 - `lab3/` — conditionals and loops
 - `lab4/` — git and github
+
+Why does this file get a special name and a special place, rather than being called notes.md like everything else?
+Because GitHub automatically finds this file and shows it on the main page of the repository as a welcome guide for visitors.
